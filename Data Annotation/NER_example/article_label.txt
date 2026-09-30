@@ -1,0 +1,20 @@
+O
+B-PRC
+I-PRC
+B-RUM
+I-RUM
+B-MIC
+I-MIC
+B-MUM
+I-MUM
+B-PRO
+I-PRO
+B-PUM
+I-PUM
+B-MAT
+I-MAT
+B-DSC
+I-DSC
+B-COM
+I-COM
+MAT: material, COM: composition, DSC: sample descriptor, MIC: microstructure, MUM: microstructure value, PRC: process, RUM: process value, PRO: property, PUM: property value, O: other
